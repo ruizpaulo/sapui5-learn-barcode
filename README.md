@@ -1,3 +1,3 @@
 # SAP UI5 Sample Application
 
-Scan barcode with sap.ndc.BarcodeScannerButton control and sap.ndc.BarcodeScanner class, after persist on a sap gateway service.
+Scan barcode using sap.ndc.BarcodeScannerButton control and sap.ndc.BarcodeScanner class and persisting on a sap gateway service.
