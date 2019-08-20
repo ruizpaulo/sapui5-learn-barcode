@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "pruiz.barcode_76",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#barcode_76-Display",
+        "navigationComponentName": "pruiz.barcode_76",
+        "intentSemanticObject": "barcode_76",
+        "intentAction": "Display",
+        "html5ApplicationName": "barcode76",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "009fa67f-1421-483d-8af7-58ebbb49e919-1565213410038"
+        ],
+        "contentPackages": [
+            "fbe7fec1-3f9c-416e-a6d4-658e1f0375ee-1564947611207"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Código de barras",
+        "subtitle": "Scan",
+        "searchKeywords": "Código de barras,Scan",
+        "displayIconUrl": "sap-icon://bar-code",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
